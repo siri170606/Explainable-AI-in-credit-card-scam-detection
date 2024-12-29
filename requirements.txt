@@ -1,0 +1,24 @@
+# Required Libraries for Implementing LIME and SHAP on 8 Machine Learning Models (all recent models)
+
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# For LIME
+lime
+
+# For SHAP
+shap
+
+# For XGBoost (Extreme Gradient Boosting)
+xgboost
+
+# For Deep Learning (if you're using neural networks with Keras or TensorFlow)
+tensorflow
+keras
+
+# Data Preprocessing Libraries
+scikit-learn
